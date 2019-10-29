@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Author: Niclas Timle
+ * date: 01-10-2019
+ */
+
+using System;
 using System.Threading;
 
 class Program
