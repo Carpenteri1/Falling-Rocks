@@ -1,8 +1,10 @@
 # Falling-Rocks Game
 
-#Rules
+# Rules
+
 Avoid the falling Rocks
 
-#Movment
+# Movment
+
 Move with arrow keys, right arrow moves right,
 left arrow moves left. 
