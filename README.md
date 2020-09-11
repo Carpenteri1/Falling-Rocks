@@ -1,4 +1,4 @@
-# Falling-Rocks Game
+# Falling-Rocks
 
 ## About
 Falling rocks is a windows console game. The player should avoide the rocks falling from the sky,
